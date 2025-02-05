@@ -522,6 +522,22 @@ footer {
     margin: 1rem 0;
 }
 
+/* Add these to your existing CSS */
+.blog-full {
+    margin: 1rem 0;
+    line-height: 1.6;
+}
+
+.blog-full p {
+    margin-bottom: 1rem;
+    color: var(--text-secondary);
+}
+
+/* Optional: Add a smooth transition effect */
+.blog-full, .blog-summary {
+    transition: all 0.3s ease;
+}
+
 /* Enhanced Contact Form */
 .contact-container {
     max-width: 600px;
