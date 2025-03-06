@@ -18,7 +18,8 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     });
-    // Chatbot functionality
+});
+  // Chatbot functionality
 document.addEventListener('DOMContentLoaded', function() {
     const chatMessages = document.getElementById('chat-messages');
     const userInput = document.getElementById('user-input');
@@ -112,6 +113,4 @@ document.addEventListener('DOMContentLoaded', function() {
             handleUserInput();
         }
     });
-});
-
 });
