@@ -56,20 +56,59 @@ document.addEventListener('DOMContentLoaded', function() {
     // Default response for unknown queries
     const defaultResponse = "I don't have information on that specific topic. I can help with: resetting routers, changing WiFi passwords, troubleshooting slow internet, connecting devices, finding default logins, setting up networks, finding IP addresses, configuring port forwarding, or setting up guest networks.";
 
-    // Function to get response based on user input
-    function getResponse(input) {
-        input = input.toLowerCase().trim();
-        
-        // Check for matching keywords in our responses
-        for (const key in responses) {
-            if (input.includes(key)) {
-                return responses[key];
-            }
-        }
-        
-        // Return default response if no match
-        return defaultResponse;
+// Function to get response based on user input
+function getResponse(input) {
+    input = input.toLowerCase().trim();
+    
+    // Check for keywords in user input
+    if (input.includes("reset") && input.includes("router")) {
+        return responses["reset router"];
     }
+    
+    if (input.includes("wifi") && (input.includes("password") || input.includes("pass"))) {
+        return responses["wifi password"];
+    }
+    
+    if ((input.includes("slow") || input.includes("speed")) && input.includes("internet")) {
+        return responses["slow internet"];
+    }
+    
+    if (input.includes("connect") && (input.includes("device") || input.includes("computer") || input.includes("phone"))) {
+        return responses["connect device"];
+    }
+    
+    if ((input.includes("default") || input.includes("factory")) && input.includes("login")) {
+        return responses["default login"];
+    }
+    
+    if (input.includes("setup") || input.includes("set up") || input.includes("create")) {
+        if (input.includes("network")) {
+            return responses["setup network"];
+        }
+        if (input.includes("guest")) {
+            return responses["guest network"];
+        }
+    }
+    
+    if (input.includes("ip") || input.includes("address")) {
+        return responses["ip address"];
+    }
+    
+    if (input.includes("port") && input.includes("forward")) {
+        return responses["port forwarding"];
+    }
+    
+    if (input.includes("hello") || input.includes("hi ") || input === "hi") {
+        return responses["hello"];
+    }
+    
+    if (input.includes("help") || input.includes("can you do")) {
+        return responses["help"];
+    }
+    
+    // Return default response if no match
+    return defaultResponse;
+}
 
     // Function to add a message to the chat window
     function addMessage(message, isUser) {
