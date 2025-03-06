@@ -88,33 +88,28 @@
         </section>
 
         <section id="chatbot" class="content-section">
-            <h2><i class="fas fa-robot"></i> Chatbot</h2>
-            <div class="section-content">
-                <div class="chatbot-container">
-                    <div class="chatbot-description">
-                        <h3>Network Configuration Assistant</h3>
-                        <p>I developed this chatbot to help users with common networking tasks and troubleshooting. It uses natural language processing to understand user queries and provide relevant solutions.</p>
+    <h2><i class="fas fa-robot"></i> Chatbot</h2>
+    <div class="section-content">
+        <div class="chatbot-container">
+            <div class="chatbot-description">
+                <h3>Network Configuration Assistant</h3>
+                <p>I developed this chatbot to help users with common networking tasks and troubleshooting. It uses natural language processing to understand user queries and provide relevant solutions.</p>
+                <p><strong>Try asking about:</strong> resetting routers, changing WiFi passwords, troubleshooting slow internet, connecting devices, or network setup.</p>
+            </div>
+            <div class="chatbot-demo">
+                <div class="chat-window">
+                    <div class="chat-messages" id="chat-messages">
+                        <div class="message bot">Hello! I'm NetBot. How can I help you with your networking needs today?</div>
                     </div>
-                    <div class="chatbot-demo">
-                        <div class="chat-window">
-                            <div class="chat-messages">
-                                <div class="message bot">Hello! I'm NetBot. How can I help you with your networking needs today?</div>
-                                <div class="message user">How do I reset my router?</div>
-                                <div class="message bot">To reset your router, follow these steps:
-                                    1. Locate the reset button
-                                    2. Press and hold for 10 seconds
-                                    3. Wait for the lights to flash
-                                    4. Router will restart with default settings</div>
-                            </div>
-                            <div class="chat-input">
-                                <input type="text" placeholder="Type your message...">
-                                <button class="send-btn"><i class="fas fa-paper-plane"></i></button>
-                            </div>
-                        </div>
+                    <div class="chat-input">
+                        <input type="text" id="user-input" placeholder="Type your message...">
+                        <button class="send-btn" id="send-button"><i class="fas fa-paper-plane"></i></button>
                     </div>
                 </div>
             </div>
-        </section>
+        </div>
+    </div>
+</section>
 
         <section id="procedure_video" class="content-section">
             <h2><i class="fas fa-video"></i> Procedure Video</h2>
