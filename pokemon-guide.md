@@ -32,20 +32,20 @@ At the end of this manual, you will find a [Glossary](#glossary) of helpful term
 
 1. Open your web browser (Chrome, Firefox, Safari, etc.)
 2. Type "play.pokemonshowdown.com" in your address bar or go directly to [https://play.pokemonshowdown.com/](https://play.pokemonshowdown.com/)
-3. The Pokémon Showdown home page will load.
+3. The Pokémon Showdown home page will load (See Figure 1).
 
 <p align="center">
   <img src="/PokePicture1.png" alt="Figure 1: The Pokémon Showdown home page">
 </p>
 <p align="center">
-  <em>Figure 1: The Pokémon Showdown home page</em>
+  <em>Figure 1: The Pokémon Showdown home page (ctrl+click the link or copy paste in browser)</em>
 </p>
 
 ### CREATING AN ACCOUNT
 
 While you can play as a guest, creating an account allows you to save teams and track your battle history.
 
-1. On the Pokémon Showdown home page, click the "Choose name" button in the top-right corner and make a name for yourself, then click "Choose name" below.
+1. On the Pokémon Showdown home page, click the "Choose name" button in the top-right corner and make a name for yourself, then click "Choose name" below (See Figure 2).
 
 <p align="center">
   <img src="/PokePicture2.png" alt="Figure 2: Click the "Choose name" button in the top-right corner">
@@ -54,7 +54,7 @@ While you can play as a guest, creating an account allows you to save teams and 
   <em>Figure 2: Click the "Choose name" button in the top-right corner</em>
 </p>
 
-2. Click the cog on the top right, A login window will appear. Click on "Register" to create a new account.
+2. Click the cog on the top right, A login window will appear. Click on "Register" to create a new account (See Figure 3).
 
 <p align="center">
   <img src="/PokePicture3.png" alt="Figure 3: Click on "Register" to create a new account">
@@ -63,7 +63,7 @@ While you can play as a guest, creating an account allows you to save teams and 
   <em>Figure 3: Click on "Register" to create a new account</em>
 </p>
 
-3. Fill out the registration form with the following information:
+3. Fill out the registration form with the following information (See Figure 4):
    - Username: Choose a unique username for your account (Your name will most likely already be filled in)
    - Password: Create a secure password
 
@@ -83,7 +83,7 @@ Before battling, you need to create a team of Pokémon to use.
 
 ### SELECTING A FORMAT
 
-1. From the Pokémon Showdown home page, click on "Teambuilder" in the top menu.
+1. From the Pokémon Showdown home page, click on "Teambuilder" in the top menu (See Figure 5).
 
 <p align="center">
   <img src="/PokePicture5.png" alt="Figure 5: Click on "Teambuilder" in the top menu">
@@ -92,7 +92,7 @@ Before battling, you need to create a team of Pokémon to use.
   <em>Figure 5: Click on "Teambuilder" in the top menu</em>
 </p>
 
-2. Click on "New Team" to start building a team from scratch.
+2. Click on "New Team" to start building a team from scratch (See Figure 6).
 
 <p align="center">
   <img src="/PokePicture6.png" alt="Figure 6: Click on "New Team" to create a new team">
@@ -101,7 +101,7 @@ Before battling, you need to create a team of Pokémon to use.
   <em>Figure 6: Click on "New Team" to create a new team</em>
 </p>
 
-3. Click on "Untitled Team" at the top of the screen and type a name for your team.
+3. Click on "Untitled Team" at the top of the screen and type a name for your team (See Figure 7).
 
 <p align="center">
   <img src="/PokePicture7.png" alt="Figure 7: Click on "Untitled Team" to rename your team">
@@ -110,7 +110,7 @@ Before battling, you need to create a team of Pokémon to use.
   <em>Figure 7: Click on "Untitled Team" to rename your team</em>
 </p>
 
-4. Click on the "Format:" dropdown menu and select a [format](#format) for your team. For beginners, "[OU](#ou-overused)" ([OverUsed](#ou-overused)) is recommended.
+4. Click on the "Format:" dropdown menu and select a [format](#format) for your team (See Figure 8). For beginners, "[OU](#ou-overused)" ([OverUsed](#ou-overused)) is recommended.
 
 <p align="center">
   <img src="/Picture10.png" alt="Figure 8: Select a format from the dropdown menu">
@@ -121,7 +121,7 @@ Before battling, you need to create a team of Pokémon to use.
 
 ### ADDING POKÉMON TO YOUR TEAM
 
-1. Click the "+ Add Pokémon" button to add your first Pokémon.
+1. Click the "+ Add Pokémon" button to add your first Pokémon (See Figure 9).
 
 <p align="center">
   <img src="/Picture11.png" alt="Figure 9: Click the "+ Add Pokémon" button to add a Pokémon to your team">
@@ -133,8 +133,7 @@ Before battling, you need to create a team of Pokémon to use.
 2. In the Pokémon selection screen, either:
    - Type a Pokémon's name in the search bar
    - OR browse through the list of available Pokémon
-3. Click on a Pokémon to select it.
-
+3. Click on a Pokémon to select it (See Figure 10).
 <p align="center">
   <img src="/Picture12.png" alt="Figure 10: Search bar highlighted above, click on a Pokémon to select it for your team">
 </p>
@@ -148,7 +147,7 @@ Before battling, you need to create a team of Pokémon to use.
 
 For each Pokémon on your team, you need to configure its [ability](#ability), [moves](#move), [stats](#stats), and [held item](#held-item).
 
-1. Select a Pokémon from your team list on the left side of the screen.
+1. Select a Pokémon from your team list on the left side of the screen (See Figure 11).
 
 <p align="center">
   <img src="/Picture13.png" alt="Figure 11: Select a Pokémon from your team list">
@@ -159,7 +158,7 @@ For each Pokémon on your team, you need to configure its [ability](#ability), [
 
 2. To set the Pokémon's [ability](#ability):
    - Click on the "Ability" dropdown menu
-   - Select an [ability](#ability) from the list
+   - Select an [ability](#ability) from the list (See Figure 12)
 
 <p align="center">
   <img src="/Picture14.png" alt="Figure 12: Select an ability from the dropdown menu">
@@ -169,7 +168,7 @@ For each Pokémon on your team, you need to configure its [ability](#ability), [
 </p>
 
 3. To set the Pokémon's [moves](#move):
-   - Click on the "Moves" tab
+   - Click on the "Moves" tab (See Figure 13)
    - Either search for [moves](#move) in the search bar or browse through the list
    - Click on a [move](#move) to add it to your moveset
    - Select a total of four [moves](#move) for your Pokémon
@@ -182,7 +181,7 @@ For each Pokémon on your team, you need to configure its [ability](#ability), [
 </p>
 
 4. To configure the Pokémon's [stats](#stats):
-   - Click on the "Stats" tab
+   - Click on the "Stats" tab (See Figure 14)
    - Select a [Nature](#nature) from the dropdown menu
    - Distribute [Effort Values (EVs)](#evs-effort-values) by clicking on the stat bars or typing values in the boxes
      - You can use a maximum of 508 [EVs](#evs-effort-values) total, with no more than 252 in any single stat
@@ -196,7 +195,7 @@ For each Pokémon on your team, you need to configure its [ability](#ability), [
 </p>
 
 5. To give your Pokémon a [held item](#held-item):
-   - Click on the "Item" field
+   - Click on the "Item" field (See Figure 15)
    - Search for an item in the search bar or browse through the list
    - Click on an item to select it (common items include [Leftovers](#leftovers), [Life Orb](#life-orb), or [Choice](#choice-items) items)
 
@@ -211,7 +210,7 @@ For each Pokémon on your team, you need to configure its [ability](#ability), [
 
 ### VALIDATING YOUR TEAM
 
-1. Once you have configured all six Pokémon, click the "Validate" button at the top of the screen to ensure you meet [format](#format) requirements.
+1. Once you have configured all six Pokémon, click the "Validate" button at the top of the screen to ensure you meet [format](#format) requirements (See Figure 16).
 
 <p align="center">
   <img src="/Picture18.png" alt="Figure 16: Click the "Validate" button to verify your team is compatible">
@@ -228,7 +227,7 @@ After creating your team, you can battle against other players.
 
 ### FINDING AN OPPONENT
 
-1. From the Pokémon Showdown home page, click on "Battle!" in the top menu.
+1. From the Pokémon Showdown home page, click on "Battle!" in the top menu (See Figure 17).
 
 <p align="center">
   <img src="/Picture19.png" alt="Figure 17: Click on "Home" tab to navigate back to main menu">
@@ -237,7 +236,7 @@ After creating your team, you can battle against other players.
   <em>Figure 17: Click on "Home" tab to navigate back to main menu</em>
 </p>
 
-2. Select a [format](#format) for your battle. Make sure to choose the same [format](#format) you used when creating your team.
+2. Select a [format](#format) for your battle. Make sure to choose the same [format](#format) you used when creating your team (See Figure 18).
 
 <!-- Figure 18 -->
 <p align="center">
@@ -247,7 +246,7 @@ After creating your team, you can battle against other players.
   <em>Figure 18: Select the format for your battle</em>
 </p>
 
-3. Select your team from the "Team" dropdown menu.
+3. Select your team from the "Team" dropdown menu (See Figure 19).
    
 <!-- Figure 19 -->
 <p align="center">
@@ -257,7 +256,7 @@ After creating your team, you can battle against other players.
   <em>Figure 19: Select your team from the dropdown menu</em>
 </p>
 
-4. Click the "Battle!" button to search for an opponent.
+4. Click the "Battle!" button to search for an opponent (See Figure 20).
 
 <!-- Figure 20 -->
 <p align="center">
@@ -273,7 +272,7 @@ After creating your team, you can battle against other players.
 
 When a battle begins, you'll first see a [team preview](#team-preview) screen.
 
-1. During [team preview](#team-preview), examine your opponent's team and decide which Pokémon to [lead](#lead) with.
+1. During [team preview](#team-preview), examine your opponent's team and decide which Pokémon to [lead](#lead) with (See Figure 21).
    
 <!-- Figure 21 -->
 <p align="center">
@@ -283,7 +282,7 @@ When a battle begins, you'll first see a [team preview](#team-preview) screen.
   <em>Figure 21: The team preview screen showing both teams</em>
 </p>
 
-2. Click on the Pokémon you want to send out first.
+2. Click on the Pokémon you want to send out first (See Figure 22).
 
 <!-- Figure 22 -->
 <p align="center">
@@ -297,7 +296,7 @@ When a battle begins, you'll first see a [team preview](#team-preview) screen.
    - Your Pokémon (bottom) and your opponent's Pokémon (top)
    - HP (health point) bars for both Pokémon
    - Your available [moves](#move) at the bottom
-   - A battle log on the right side
+   - A battle log on the right side (See Figure 23)
 
 <!-- Figure 23 -->
 <p align="center">
@@ -312,7 +311,7 @@ When a battle begins, you'll first see a [team preview](#team-preview) screen.
 Each turn, you must choose to either use a [move](#move) or [switch](#switch) to a different Pokémon.
 
 1. To use a [move](#move):
-   - Click on one of your Pokémon's [moves](#move) displayed at the bottom of the screen
+   - Click on one of your Pokémon's [moves](#move) displayed at the bottom of the screen (See Figure 24)
   
 <!-- Figure 24 -->
 <p align="center">
@@ -324,7 +323,7 @@ Each turn, you must choose to either use a [move](#move) or [switch](#switch) to
 
 2. To [switch](#switch) Pokémon:
    - Click the "Switch" button
-   - Select the Pokémon you want to [switch](#switch) to
+   - Select the Pokémon you want to [switch](#switch) to (See Figure 25)
 
 <!-- Figure 25 -->
 <p align="center">
@@ -342,7 +341,7 @@ Each turn, you must choose to either use a [move](#move) or [switch](#switch) to
 
 A battle ends when all Pokémon on one player's team are unable to battle.
 
-1. When the battle ends, you'll see a victory or defeat screen.
+1. When the battle ends, you'll see a victory or defeat screen (See Figure 26).
 
 <!-- Figure 26 -->
 <p align="center">
@@ -352,7 +351,7 @@ A battle ends when all Pokémon on one player's team are unable to battle.
   <em>Figure 26: The battle results screen</em>
 </p>
 
-2. To save a replay of your battle, click the "Download replay" button or the "Upload and Share Replay" button.
+2. To save a replay of your battle, click the "Download replay" button or the "Upload and Share Replay" button (See Figure 27).
 
 <!-- Figure 27 -->
 <p align="center">
@@ -371,7 +370,7 @@ You can create multiple teams and edit existing ones.
 ### EDITING EXISTING TEAMS
 
 1. From the Pokémon Showdown home page, click on "Teambuilder" in the top menu.
-2. Click on the team you want to edit from the list of saved teams.
+2. Click on the team you want to edit from the list of saved teams (See Figure 28).
 
 <!-- Figure 28 -->
 <p align="center">
@@ -390,7 +389,7 @@ Pokémon Showdown allows you to import and export teams in text format.
 
 1. To export a team:
    - Select the team in Teambuilder
-   - Click "Import/Export" at the top of the screen
+   - Click "Import/Export" at the top of the screen (See Figure 29)
    - Copy the text that appears in the pop-up window
 
 <!-- Figure 29 -->
@@ -404,7 +403,7 @@ Pokémon Showdown allows you to import and export teams in text format.
 2. To import a team:
    - Click "Import/Export" at the bottom of the Teambuilder screen
    - Paste the team data into the text field
-   - Click "Import"
+   - Click "Import" (See Figure 30)
 
 <!-- Figure 30 -->
 <p align="center">
