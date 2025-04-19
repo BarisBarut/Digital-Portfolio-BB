@@ -48,7 +48,7 @@ While you can play as a guest, creating an account allows you to save teams and 
 1. On the Pokémon Showdown home page, click the "Choose name" button in the top-right corner and make a name for yourself, then click "Choose name" below (See Figure 2).
 
 <p align="center">
-  <img src="[https://BarisBarut.github.io/Digital-Portfolio-BB/PokePicture2.png](https://github.com/BarisBarut/Digital-Portfolio-BB/blob/main/PokePicture2.png)" alt="Figure 2: Click the "Choose name" button in the top-right corner">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/PokePicture2.png" alt="Figure 2: Click the "Choose name" button in the top-right corner">
 </p>
 <p align="center">
   <em>Figure 2: Click the "Choose name" button in the top-right corner</em>
