@@ -35,7 +35,7 @@ At the end of this manual, you will find a [Glossary](#glossary) of helpful term
 3. The Pokémon Showdown home page will load (See Figure 1).
 
 <p align="center">
-  <img src="/PokePicture1.png" alt="Figure 1: The Pokémon Showdown home page">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/PokePicture1.png" alt="Figure 1: The Pokémon Showdown home page">
 </p>
 <p align="center">
   <em>Figure 1: The Pokémon Showdown home page (ctrl+click the link or copy paste in browser)</em>
@@ -48,7 +48,7 @@ While you can play as a guest, creating an account allows you to save teams and 
 1. On the Pokémon Showdown home page, click the "Choose name" button in the top-right corner and make a name for yourself, then click "Choose name" below (See Figure 2).
 
 <p align="center">
-  <img src="/PokePicture2.png" alt="Figure 2: Click the "Choose name" button in the top-right corner">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/PokePicture2.png" alt="Figure 2: Click the "Choose name" button in the top-right corner">
 </p>
 <p align="center">
   <em>Figure 2: Click the "Choose name" button in the top-right corner</em>
@@ -57,7 +57,7 @@ While you can play as a guest, creating an account allows you to save teams and 
 2. Click the cog on the top right, A login window will appear. Click on "Register" to create a new account (See Figure 3).
 
 <p align="center">
-  <img src="/PokePicture3.png" alt="Figure 3: Click on "Register" to create a new account">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/PokePicture3.png" alt="Figure 3: Click on "Register" to create a new account">
 </p>
 <p align="center">
   <em>Figure 3: Click on "Register" to create a new account</em>
@@ -68,7 +68,7 @@ While you can play as a guest, creating an account allows you to save teams and 
    - Password: Create a secure password
 
 <p align="center">
-  <img src="/PokePicture4.png" alt="Figure 4: The registration form with fields for username and password">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/PokePicture4.png" alt="Figure 4: The registration form with fields for username and password">
 </p>
 <p align="center">
   <em>Figure 4: The registration form with fields for username and password</em>
@@ -86,7 +86,7 @@ Before battling, you need to create a team of Pokémon to use.
 1. From the Pokémon Showdown home page, click on "Teambuilder" in the top menu (See Figure 5).
 
 <p align="center">
-  <img src="/PokePicture5.png" alt="Figure 5: Click on "Teambuilder" in the top menu">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/PokePicture5.png" alt="Figure 5: Click on "Teambuilder" in the top menu">
 </p>
 <p align="center">
   <em>Figure 5: Click on "Teambuilder" in the top menu</em>
@@ -95,7 +95,7 @@ Before battling, you need to create a team of Pokémon to use.
 2. Click on "New Team" to start building a team from scratch (See Figure 6).
 
 <p align="center">
-  <img src="/PokePicture6.png" alt="Figure 6: Click on "New Team" to create a new team">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/PokePicture6.png" alt="Figure 6: Click on "New Team" to create a new team">
 </p>
 <p align="center">
   <em>Figure 6: Click on "New Team" to create a new team</em>
@@ -104,7 +104,7 @@ Before battling, you need to create a team of Pokémon to use.
 3. Click on "Untitled Team" at the top of the screen and type a name for your team (See Figure 7).
 
 <p align="center">
-  <img src="/PokePicture7.png" alt="Figure 7: Click on "Untitled Team" to rename your team">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/PokePicture7.png" alt="Figure 7: Click on "Untitled Team" to rename your team">
 </p>
 <p align="center">
   <em>Figure 7: Click on "Untitled Team" to rename your team</em>
@@ -113,7 +113,7 @@ Before battling, you need to create a team of Pokémon to use.
 4. Click on the "Format:" dropdown menu and select a [format](#format) for your team (See Figure 8). For beginners, "[OU](#ou-overused)" ([OverUsed](#ou-overused)) is recommended.
 
 <p align="center">
-  <img src="/Picture10.png" alt="Figure 8: Select a format from the dropdown menu">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture10.png" alt="Figure 8: Select a format from the dropdown menu">
 </p>
 <p align="center">
   <em>Figure 8: Select a format from the dropdown menu</em>
@@ -124,7 +124,7 @@ Before battling, you need to create a team of Pokémon to use.
 1. Click the "+ Add Pokémon" button to add your first Pokémon (See Figure 9).
 
 <p align="center">
-  <img src="/Picture11.png" alt="Figure 9: Click the "+ Add Pokémon" button to add a Pokémon to your team">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture11.png" alt="Figure 9: Click the "+ Add Pokémon" button to add a Pokémon to your team">
 </p>
 <p align="center">
   <em>Figure 9: Click the "+ Add Pokémon" button to add a Pokémon to your team</em>
@@ -135,7 +135,7 @@ Before battling, you need to create a team of Pokémon to use.
    - OR browse through the list of available Pokémon
 3. Click on a Pokémon to select it (See Figure 10).
 <p align="center">
-  <img src="/Picture12.png" alt="Figure 10: Search bar highlighted above, click on a Pokémon to select it for your team">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture12.png" alt="Figure 10: Search bar highlighted above, click on a Pokémon to select it for your team">
 </p>
 <p align="center">
   <em>Figure 10: Search bar highlighted above, click on a Pokémon to select it for your team</em>
@@ -150,7 +150,7 @@ For each Pokémon on your team, you need to configure its [ability](#ability), [
 1. Select a Pokémon from your team list on the left side of the screen (See Figure 11).
 
 <p align="center">
-  <img src="/Picture13.png" alt="Figure 11: Select a Pokémon from your team list">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture13.png" alt="Figure 11: Select a Pokémon from your team list">
 </p>
 <p align="center">
   <em>Figure 11: Select a Pokémon from your team list</em>
@@ -161,7 +161,7 @@ For each Pokémon on your team, you need to configure its [ability](#ability), [
    - Select an [ability](#ability) from the list (See Figure 12)
 
 <p align="center">
-  <img src="/Picture14.png" alt="Figure 12: Select an ability from the dropdown menu">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture14.png" alt="Figure 12: Select an ability from the dropdown menu">
 </p>
 <p align="center">
   <em>Figure 12: Select an ability from the dropdown menu</em>
@@ -174,7 +174,7 @@ For each Pokémon on your team, you need to configure its [ability](#ability), [
    - Select a total of four [moves](#move) for your Pokémon
 
 <p align="center">
-  <img src="/Picture15.png" alt="Figure 13: Click on the "Moves" tab to select moves for your Pokémon">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture15.png" alt="Figure 13: Click on the "Moves" tab to select moves for your Pokémon">
 </p>
 <p align="center">
   <em>Figure 13: Click on the "Moves" tab to select moves for your Pokémon</em>
@@ -188,7 +188,7 @@ For each Pokémon on your team, you need to configure its [ability](#ability), [
    - Adjust [Individual Values (IVs)](#ivs-individual-values) if needed (usually kept at maximum 31)
 
 <p align="center">
-  <img src="/Picture16.png" alt="Figure 14: Use the "Stats" tab to configure your Pokémon's EVs, IVs, and Nature">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture16.png" alt="Figure 14: Use the "Stats" tab to configure your Pokémon's EVs, IVs, and Nature">
 </p>
 <p align="center">
   <em>Figure 14: Use the "Stats" tab to configure your Pokémon's EVs, IVs, and Nature</em>
@@ -200,7 +200,7 @@ For each Pokémon on your team, you need to configure its [ability](#ability), [
    - Click on an item to select it (common items include [Leftovers](#leftovers), [Life Orb](#life-orb), or [Choice](#choice-items) items)
 
 <p align="center">
-  <img src="/Picture17.png" alt="Figure 15: Click on an item to give it to your Pokémon">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture17.png" alt="Figure 15: Click on an item to give it to your Pokémon">
 </p>
 <p align="center">
   <em>Figure 15: Click on an item to give it to your Pokémon</em>
@@ -213,7 +213,7 @@ For each Pokémon on your team, you need to configure its [ability](#ability), [
 1. Once you have configured all six Pokémon, click the "Validate" button at the top of the screen to ensure you meet [format](#format) requirements (See Figure 16).
 
 <p align="center">
-  <img src="/Picture18.png" alt="Figure 16: Click the "Validate" button to verify your team is compatible">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture18.png" alt="Figure 16: Click the "Validate" button to verify your team is compatible">
 </p>
 <p align="center">
   <em>Figure 16: Click the "Validate" button to verify your team is compatible</em>
@@ -230,7 +230,7 @@ After creating your team, you can battle against other players.
 1. From the Pokémon Showdown home page, click on "Battle!" in the top menu (See Figure 17).
 
 <p align="center">
-  <img src="/Picture19.png" alt="Figure 17: Click on "Home" tab to navigate back to main menu">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture19.png" alt="Figure 17: Click on "Home" tab to navigate back to main menu">
 </p>
 <p align="center">
   <em>Figure 17: Click on "Home" tab to navigate back to main menu</em>
@@ -240,7 +240,7 @@ After creating your team, you can battle against other players.
 
 <!-- Figure 18 -->
 <p align="center">
-  <img src="/Picture20.png" alt="Figure 18: Select the format for your battle">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture20.png" alt="Figure 18: Select the format for your battle">
 </p>
 <p align="center">
   <em>Figure 18: Select the format for your battle</em>
@@ -250,7 +250,7 @@ After creating your team, you can battle against other players.
    
 <!-- Figure 19 -->
 <p align="center">
-  <img src="/Picture21.png" alt="Figure 19: Select your team from the dropdown menu">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture21.png" alt="Figure 19: Select your team from the dropdown menu">
 </p>
 <p align="center">
   <em>Figure 19: Select your team from the dropdown menu</em>
@@ -260,7 +260,7 @@ After creating your team, you can battle against other players.
 
 <!-- Figure 20 -->
 <p align="center">
-  <img src="/Picture22.png" alt="Figure 20: Click the 'Battle!' button to search for an opponent">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture22.png" alt="Figure 20: Click the 'Battle!' button to search for an opponent">
 </p>
 <p align="center">
   <em>Figure 20: Click the "Battle!" button to search for an opponent</em>
@@ -276,7 +276,7 @@ When a battle begins, you'll first see a [team preview](#team-preview) screen.
    
 <!-- Figure 21 -->
 <p align="center">
-  <img src="/Picture23.png" alt="Figure 21: The team preview screen showing both teams">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture23.png" alt="Figure 21: The team preview screen showing both teams">
 </p>
 <p align="center">
   <em>Figure 21: The team preview screen showing both teams</em>
@@ -286,7 +286,7 @@ When a battle begins, you'll first see a [team preview](#team-preview) screen.
 
 <!-- Figure 22 -->
 <p align="center">
-  <img src="/Picture24.png" alt="Figure 22: Select your lead Pokémon">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture24.png" alt="Figure 22: Select your lead Pokémon">
 </p>
 <p align="center">
   <em>Figure 22: Select your lead Pokémon</em>
@@ -300,7 +300,7 @@ When a battle begins, you'll first see a [team preview](#team-preview) screen.
 
 <!-- Figure 23 -->
 <p align="center">
-  <img src="/Picture25.png" alt="Figure 23: The main battle interface">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture25.png" alt="Figure 23: The main battle interface">
 </p>
 <p align="center">
   <em>Figure 23: The main battle interface</em>
@@ -315,7 +315,7 @@ Each turn, you must choose to either use a [move](#move) or [switch](#switch) to
   
 <!-- Figure 24 -->
 <p align="center">
-  <img src="/Picture26.png" alt="Figure 24: Click on a move to use it">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture26.png" alt="Figure 24: Click on a move to use it">
 </p>
 <p align="center">
   <em>Figure 24: Click on a move to use it</em>
@@ -327,7 +327,7 @@ Each turn, you must choose to either use a [move](#move) or [switch](#switch) to
 
 <!-- Figure 25 -->
 <p align="center">
-  <img src="/Picture27.png" alt="Figure 25: Click 'Switch' and select another Pokémon">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture27.png" alt="Figure 25: Click 'Switch' and select another Pokémon">
 </p>
 <p align="center">
   <em>Figure 25: Click "Switch" and select another Pokémon</em>
@@ -345,7 +345,7 @@ A battle ends when all Pokémon on one player's team are unable to battle.
 
 <!-- Figure 26 -->
 <p align="center">
-  <img src="/Picture28.png" alt="Figure 26: The battle results screen">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture28.png" alt="Figure 26: The battle results screen">
 </p>
 <p align="center">
   <em>Figure 26: The battle results screen</em>
@@ -355,7 +355,7 @@ A battle ends when all Pokémon on one player's team are unable to battle.
 
 <!-- Figure 27 -->
 <p align="center">
-  <img src="/Picture29.png" alt="Figure 27: Click 'Download replay' or 'Upload and Share Replay' to save a recording of your battle">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture29.png" alt="Figure 27: Click 'Download replay' or 'Upload and Share Replay' to save a recording of your battle">
 </p>
 <p align="center">
   <em>Figure 27: Click "Download replay" or "Upload and Share Replay" to save a recording of your battle</em>
@@ -374,7 +374,7 @@ You can create multiple teams and edit existing ones.
 
 <!-- Figure 28 -->
 <p align="center">
-  <img src="/Picture30.png" alt="Figure 28: Click on a team to edit it">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture30.png" alt="Figure 28: Click on a team to edit it">
 </p>
 <p align="center">
   <em>Figure 28: Click on a team to edit it</em>
@@ -394,7 +394,7 @@ Pokémon Showdown allows you to import and export teams in text format.
 
 <!-- Figure 29 -->
 <p align="center">
-  <img src="/Picture31.png" alt="Figure 29: Click 'Import/Export' to copy your team data">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture31.png" alt="Figure 29: Click 'Import/Export' to copy your team data">
 </p>
 <p align="center">
   <em>Figure 29: Click "Import/Export" to copy your team data</em>
@@ -407,7 +407,7 @@ Pokémon Showdown allows you to import and export teams in text format.
 
 <!-- Figure 30 -->
 <p align="center">
-  <img src="/Picture32.png" alt="Figure 30: Paste team data and click 'Import' to import a team">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture32.png" alt="Figure 30: Paste team data and click 'Import' to import a team">
 </p>
 <p align="center">
   <em>Figure 30: Paste team data and click "Import" to import a team</em>
