@@ -247,6 +247,8 @@ After creating your team, you can battle against other players.
   <em>Figure 18: Select the format for your battle</em>
 </p>
 
+3. Select your team from the "Team" dropdown menu.
+   
 <!-- Figure 19 -->
 <p align="center">
   <img src="/Picture21.png" alt="Figure 19: Select your team from the dropdown menu">
@@ -254,6 +256,8 @@ After creating your team, you can battle against other players.
 <p align="center">
   <em>Figure 19: Select your team from the dropdown menu</em>
 </p>
+
+4. Click the "Battle!" button to search for an opponent.
 
 <!-- Figure 20 -->
 <p align="center">
@@ -263,6 +267,14 @@ After creating your team, you can battle against other players.
   <em>Figure 20: Click the "Battle!" button to search for an opponent</em>
 </p>
 
+5. Wait for the matchmaking system to find an opponent. This usually takes only a few seconds.
+
+### USING THE BATTLE INTERFACE
+
+When a battle begins, you'll first see a [team preview](#team-preview) screen.
+
+1. During [team preview](#team-preview), examine your opponent's team and decide which Pokémon to [lead](#lead) with.
+   
 <!-- Figure 21 -->
 <p align="center">
   <img src="/Picture23.png" alt="Figure 21: The team preview screen showing both teams">
@@ -270,6 +282,8 @@ After creating your team, you can battle against other players.
 <p align="center">
   <em>Figure 21: The team preview screen showing both teams</em>
 </p>
+
+2. Click on the Pokémon you want to send out first.
 
 <!-- Figure 22 -->
 <p align="center">
@@ -279,6 +293,12 @@ After creating your team, you can battle against other players.
   <em>Figure 22: Select your lead Pokémon</em>
 </p>
 
+3. The battle interface will appear, showing:
+   - Your Pokémon (bottom) and your opponent's Pokémon (top)
+   - HP (health point) bars for both Pokémon
+   - Your available [moves](#move) at the bottom
+   - A battle log on the right side
+
 <!-- Figure 23 -->
 <p align="center">
   <img src="/Picture25.png" alt="Figure 23: The main battle interface">
@@ -287,6 +307,13 @@ After creating your team, you can battle against other players.
   <em>Figure 23: The main battle interface</em>
 </p>
 
+### MAKING MOVES DURING BATTLE
+
+Each turn, you must choose to either use a [move](#move) or [switch](#switch) to a different Pokémon.
+
+1. To use a [move](#move):
+   - Click on one of your Pokémon's [moves](#move) displayed at the bottom of the screen
+  
 <!-- Figure 24 -->
 <p align="center">
   <img src="/Picture26.png" alt="Figure 24: Click on a move to use it">
@@ -294,6 +321,10 @@ After creating your team, you can battle against other players.
 <p align="center">
   <em>Figure 24: Click on a move to use it</em>
 </p>
+
+2. To [switch](#switch) Pokémon:
+   - Click the "Switch" button
+   - Select the Pokémon you want to [switch](#switch) to
 
 <!-- Figure 25 -->
 <p align="center">
@@ -303,6 +334,16 @@ After creating your team, you can battle against other players.
   <em>Figure 25: Click "Switch" and select another Pokémon</em>
 </p>
 
+3. After selecting your action, wait for your opponent to make their selection. Both actions will then be processed according to Pokémon's [Speed](#speed-tier) and [move priority](#priority-moves) rules.
+
+4. Continue selecting [moves](#move) or [switching](#switch) until the battle ends.
+
+### ENDING A BATTLE
+
+A battle ends when all Pokémon on one player's team are unable to battle.
+
+1. When the battle ends, you'll see a victory or defeat screen.
+
 <!-- Figure 26 -->
 <p align="center">
   <img src="/Picture28.png" alt="Figure 26: The battle results screen">
@@ -310,6 +351,8 @@ After creating your team, you can battle against other players.
 <p align="center">
   <em>Figure 26: The battle results screen</em>
 </p>
+
+2. To save a replay of your battle, click the "Download replay" button or the "Upload and Share Replay" button.
 
 <!-- Figure 27 -->
 <p align="center">
@@ -319,6 +362,17 @@ After creating your team, you can battle against other players.
   <em>Figure 27: Click "Download replay" or "Upload and Share Replay" to save a recording of your battle</em>
 </p>
 
+3. To return to the home page, click the "Home" button in the top-left corner.
+
+## MANAGING YOUR TEAMS
+
+You can create multiple teams and edit existing ones.
+
+### EDITING EXISTING TEAMS
+
+1. From the Pokémon Showdown home page, click on "Teambuilder" in the top menu.
+2. Click on the team you want to edit from the list of saved teams.
+
 <!-- Figure 28 -->
 <p align="center">
   <img src="/Picture30.png" alt="Figure 28: Click on a team to edit it">
@@ -326,6 +380,18 @@ After creating your team, you can battle against other players.
 <p align="center">
   <em>Figure 28: Click on a team to edit it</em>
 </p>
+
+3. Make any desired changes to your team.
+4. Click "Save" to save your changes.
+
+### IMPORTING AND EXPORTING TEAMS
+
+Pokémon Showdown allows you to import and export teams in text format.
+
+1. To export a team:
+   - Select the team in Teambuilder
+   - Click "Import/Export" at the top of the screen
+   - Copy the text that appears in the pop-up window
 
 <!-- Figure 29 -->
 <p align="center">
@@ -335,6 +401,11 @@ After creating your team, you can battle against other players.
   <em>Figure 29: Click "Import/Export" to copy your team data</em>
 </p>
 
+2. To import a team:
+   - Click "Import/Export" at the bottom of the Teambuilder screen
+   - Paste the team data into the text field
+   - Click "Import"
+
 <!-- Figure 30 -->
 <p align="center">
   <img src="/Picture32.png" alt="Figure 30: Paste team data and click 'Import' to import a team">
@@ -342,6 +413,8 @@ After creating your team, you can battle against other players.
 <p align="center">
   <em>Figure 30: Paste team data and click "Import" to import a team</em>
 </p>
+
+
 
 ## COMMON ISSUES AND SOLUTIONS
 
