@@ -48,7 +48,7 @@ While you can play as a guest, creating an account allows you to save teams and 
 1. On the Pokémon Showdown home page, click the "Choose name" button in the top-right corner and make a name for yourself, then click "Choose name" below (See Figure 2).
 
 <p align="center">
-  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/PokePicture2.png" alt="Figure 2: Click the "Choose name" button in the top-right corner">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/PokePicture2.png" alt="Figure 2: Click the 'Choose name' button in the top-right corner">
 </p>
 <p align="center">
   <em>Figure 2: Click the "Choose name" button in the top-right corner</em>
@@ -57,7 +57,7 @@ While you can play as a guest, creating an account allows you to save teams and 
 2. Click the cog on the top right, A login window will appear. Click on "Register" to create a new account (See Figure 3).
 
 <p align="center">
-  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/PokePicture3.png" alt="Figure 3: Click on "Register" to create a new account">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/PokePicture3.png" alt="Figure 3: Click on 'Register' to create a new account">
 </p>
 <p align="center">
   <em>Figure 3: Click on "Register" to create a new account</em>
@@ -86,7 +86,7 @@ Before battling, you need to create a team of Pokémon to use.
 1. From the Pokémon Showdown home page, click on "Teambuilder" in the top menu (See Figure 5).
 
 <p align="center">
-  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/PokePicture5.png" alt="Figure 5: Click on "Teambuilder" in the top menu">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/PokePicture5.png" alt="Figure 5: Click on 'Teambuilder' in the top menu">
 </p>
 <p align="center">
   <em>Figure 5: Click on "Teambuilder" in the top menu</em>
@@ -95,7 +95,7 @@ Before battling, you need to create a team of Pokémon to use.
 2. Click on "New Team" to start building a team from scratch (See Figure 6).
 
 <p align="center">
-  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/PokePicture6.png" alt="Figure 6: Click on "New Team" to create a new team">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/PokePicture6.png" alt="Figure 6: Click on 'New Team' to create a new team">
 </p>
 <p align="center">
   <em>Figure 6: Click on "New Team" to create a new team</em>
@@ -104,7 +104,7 @@ Before battling, you need to create a team of Pokémon to use.
 3. Click on "Untitled Team" at the top of the screen and type a name for your team (See Figure 7).
 
 <p align="center">
-  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/PokePicture7.png" alt="Figure 7: Click on "Untitled Team" to rename your team">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/PokePicture7.png" alt="Figure 7: Click on 'Untitled Team' to rename your team">
 </p>
 <p align="center">
   <em>Figure 7: Click on "Untitled Team" to rename your team</em>
@@ -124,7 +124,7 @@ Before battling, you need to create a team of Pokémon to use.
 1. Click the "+ Add Pokémon" button to add your first Pokémon (See Figure 9).
 
 <p align="center">
-  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture11.png" alt="Figure 9: Click the "+ Add Pokémon" button to add a Pokémon to your team">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture11.png" alt="Figure 9: Click the '+ Add Pokémon' button to add a Pokémon to your team">
 </p>
 <p align="center">
   <em>Figure 9: Click the "+ Add Pokémon" button to add a Pokémon to your team</em>
@@ -174,7 +174,7 @@ For each Pokémon on your team, you need to configure its [ability](#ability), [
    - Select a total of four [moves](#move) for your Pokémon
 
 <p align="center">
-  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture15.png" alt="Figure 13: Click on the "Moves" tab to select moves for your Pokémon">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture15.png" alt="Figure 13: Click on the 'Moves' tab to select moves for your Pokémon">
 </p>
 <p align="center">
   <em>Figure 13: Click on the "Moves" tab to select moves for your Pokémon</em>
@@ -188,7 +188,7 @@ For each Pokémon on your team, you need to configure its [ability](#ability), [
    - Adjust [Individual Values (IVs)](#ivs-individual-values) if needed (usually kept at maximum 31)
 
 <p align="center">
-  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture16.png" alt="Figure 14: Use the "Stats" tab to configure your Pokémon's EVs, IVs, and Nature">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture16.png" alt="Figure 14: Use the 'Stats' tab to configure your Pokémon's EVs, IVs, and Nature">
 </p>
 <p align="center">
   <em>Figure 14: Use the "Stats" tab to configure your Pokémon's EVs, IVs, and Nature</em>
@@ -213,7 +213,7 @@ For each Pokémon on your team, you need to configure its [ability](#ability), [
 1. Once you have configured all six Pokémon, click the "Validate" button at the top of the screen to ensure you meet [format](#format) requirements (See Figure 16).
 
 <p align="center">
-  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture18.png" alt="Figure 16: Click the "Validate" button to verify your team is compatible">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture18.png" alt="Figure 16: Click the 'Validate' button to verify your team is compatible">
 </p>
 <p align="center">
   <em>Figure 16: Click the "Validate" button to verify your team is compatible</em>
