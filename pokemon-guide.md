@@ -34,8 +34,12 @@ At the end of this manual, you will find a [Glossary](#glossary) of helpful term
 2. Type "play.pokemonshowdown.com" in your address bar or go directly to [https://play.pokemonshowdown.com/](https://play.pokemonshowdown.com/)
 3. The Pokémon Showdown home page will load.
 
-![Figure 1: The Pokémon Showdown home page](/PokePicture1.png)
-)
+<p align="center">
+  <img src="/PokePicture1.png" alt="Figure 1: The Pokémon Showdown home page">
+</p>
+<p align="center">
+  <em>Figure 1: The Pokémon Showdown home page</em>
+</p>
 
 ### CREATING AN ACCOUNT
 
