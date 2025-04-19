@@ -230,7 +230,7 @@ After creating your team, you can battle against other players.
 1. From the Pokémon Showdown home page, click on "Battle!" in the top menu (See Figure 17).
 
 <p align="center">
-  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture19.png" alt="Figure 17: Click on "Home" tab to navigate back to main menu">
+  <img src="https://BarisBarut.github.io/Digital-Portfolio-BB/Picture19.png" alt="Figure 17: Click on 'Home' tab to navigate back to main menu">
 </p>
 <p align="center">
   <em>Figure 17: Click on "Home" tab to navigate back to main menu</em>
