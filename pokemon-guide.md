@@ -516,3 +516,5 @@ Pokémon Showdown allows you to import and export teams in text format.
 <a id="weather"></a>**Weather**: Field conditions like Rain, Sun, Sandstorm, or Hail that affect battle mechanics and can power up certain moves.
 
 <a id="z-move"></a>**Z-Move**: (Past Generation) A powerful one-use move enabled by Z-crystals.
+
+This manual walks you through how to get started on Pokémon Showdown — an online battle simulator for competitive Pokémon play. I chose this topic because I was once ranked in the Top 100 players and had a blast, and I encourage anyone who enjoys Pokémon to give it a shot! Claude 3.7 Sonnet was used to translate the Manual into Markdown to fulfill the assignment requirements, the PDF version I wanted to make as a resource for the future and I made it myself.
